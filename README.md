@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Torgrip313
+- 👀 I’m interested in C# Coding
+- 🌱 I’m currently learning C# Coding
+- 💞️ I’m looking to collaborate on C# Coding
+- 📫 How to reach me laconicism356@gmail.com
